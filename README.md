@@ -1,5 +1,5 @@
 # Xens.ai
-Develop Smartfinn AI-Powered Compliance Document Verification System
+- Develop Smartfinn AI-Powered Compliance Document Verification System -
 
 
 This project outline describes the development of an AI-driven compliance system designed to help Smartfinn Advisors meet rigorous Australian financial regulations by automating document verification. The proposed technology will use optical character recognition and fraud detection to identify tampered files and reconcile discrepancies across various financial records, such as payslips and bank statements. Beyond simple data extraction, the system aims to integrate with the Mercury platform to cross-reference client-provided information against official records, ensuring total consistency. By shifting from manual reviews to this automated governance framework, the firm intends to significantly increase operational efficiency while maintaining an auditable trail for regulatory bodies like ASIC
