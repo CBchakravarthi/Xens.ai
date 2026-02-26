@@ -6,4 +6,5 @@ This project outline describes the development of an AI-driven compliance system
 
 AI-powered system for verifying and analyzing client documents to detect risks, automate data extraction, and provide forensic flags, so that I can reduce manual review time, ensure regulatory compliance, and maintain a human-in-the-loop process for final decisions.
 
-This system will function as a "Human-in-the-loop" platform, providing forensic flags and risk scoring to assist compliance officers but not making final loan approval or decline decisions. It will handle document ingestion, AI-driven extraction and validation, integrations, security, reporting, and quality assurance 
+This system will function as a "Human-in-the-loop" platform, 
+providing forensic flags and risk scoring to assist compliance officers but not making final loan approval or decline decisions. It will handle document ingestion, AI-driven extraction and validation, integrations, security, reporting, and quality assurance 
